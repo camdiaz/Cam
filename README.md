@@ -8,11 +8,11 @@ Hello! I'm Camila Diaz but you can call me Cam too, I'm a passionate student of 
 
 ## Education 📚
 
-Currently, I'm pursuing studies in mechatronics engineering, where I have the opportunity to explore a wide range of disciplines, from mechanics and electronics to programming and automation. I'm excited to apply my knowledge and skills to interesting and challenging projects. 🤖⚙️
+I studied mechatronics engineering, where I have the opportunity to explore a wide range of disciplines, from mechanics and electronics to programming and automation. I'm excited to apply my knowledge and skills to interesting and challenging projects. 🤖⚙️
 
 ## Experience 💼
 
-Throughout my journey, I have been focused on backend development. Working on the internal parts of applications gives me the chance to create robust, efficient, and scalable systems that form the foundation of many innovative technological solutions. 💻🔧
+Throughout my journey, I have been focused on fullstack development. Working on the internal parts of applications gives me the chance to create robust, efficient, and scalable systems that form the foundation of many innovative technological solutions. 💻🔧
 
 ## Interests 🌟
 
