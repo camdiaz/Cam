@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ## About Me 🙋‍♂️
 
-Hello! I'm Camila Diaz but you can call me Cam too, I'm a passionate student of mechatronics engineering and a backend developer. My enthusiasm for science and technology constantly drives me to learn and thrive in the world of programming and engineering. 🔍💡
+Hello! I'm Camila Diaz but you can call me Cam too, I'm a passionate Mechatronics engineer and software developer. My enthusiasm for science and technology constantly drives me to learn and thrive in the world of programming and engineering. 🔍💡
 
 ## Education 📚
 
